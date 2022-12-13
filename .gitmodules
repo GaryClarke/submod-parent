@@ -1,3 +1,6 @@
 [submodule "docker-php"]
 	path = docker-php
 	url = https://github.com/GaryClarke/docker-php
+[submodule "this-is-a-submodule"]
+	path = this-is-a-submodule
+	url = https://github.com/GaryClarke/this-is-a-submodule
